@@ -80,9 +80,6 @@ export default function MemesPage() {
         <div className="font-serif text-5xl leading-tight animate-fade-up">
           reading the room…
         </div>
-        <p className="text-sm text-ink/60 animate-fade-up">
-          building your humor profile and checking compatibility with 4 people.
-        </p>
         <div className="mt-4 h-1 w-32 overflow-hidden rounded-full bg-ink/10">
           <div className="h-full w-1/2 animate-pulse bg-ink" />
         </div>

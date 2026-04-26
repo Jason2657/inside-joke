@@ -3,7 +3,7 @@
     "id": "s1",
     "name": "Maya",
     "age": 21,
-    "school": "Brown",
+    "school": "Columbia",
     "bio": "art history major, full-time crow appreciator. my brain runs on dadaism.",
     "memeReactions": {
       "m1": "love",
@@ -26,7 +26,7 @@
     "id": "s2",
     "name": "Jordan",
     "age": 22,
-    "school": "NYU",
+    "school": "Columbia",
     "bio": "writes copy at a brand you've heard of. unfortunately funny in a deadpan way.",
     "memeReactions": {
       "m1": "meh",
@@ -49,7 +49,7 @@
     "id": "s3",
     "name": "Riley",
     "age": 20,
-    "school": "USC",
+    "school": "Columbia",
     "bio": "film & psych double. fluent in letterboxd reviews and unhinged group chat lore.",
     "memeReactions": {
       "m1": "laugh",

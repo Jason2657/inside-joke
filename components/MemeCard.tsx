@@ -22,14 +22,14 @@ export function MemeCard({ meme }: { meme: Meme }) {
 
   return (
     <div className="flex flex-col gap-3">
-      <div className="relative aspect-square w-full overflow-hidden rounded-3xl border border-ink/10 shadow-[0_8px_30px_-12px_rgba(0,0,0,0.18)]">
+      <div className="relative aspect-square w-full overflow-hidden rounded-3xl border border-ink/10 bg-cream shadow-[0_8px_30px_-12px_rgba(0,0,0,0.18)]">
         {!errored ? (
           <Image
             src={`/memes/${meme.filename}`}
             alt={meme.caption}
             fill
             sizes="(max-width: 768px) 100vw, 480px"
-            className="object-cover"
+            className="object-contain"
             onError={() => setErrored(true)}
             priority
           />
