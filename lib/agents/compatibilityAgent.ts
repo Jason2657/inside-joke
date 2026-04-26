@@ -19,7 +19,7 @@ export async function compatibilityAgent(
   b: HumorProfile,
 ): Promise<Compatibility> {
   const { object } = await generateObject({
-    model: openai("gpt-4o-mini"),
+    model: openai("gpt-5.4-mini"),
     schema: CompatibilitySchema,
     // Lower temperature: scoring should be consistent across calls in the same request.
     temperature: 0.3,

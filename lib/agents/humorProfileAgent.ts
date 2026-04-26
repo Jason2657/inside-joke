@@ -33,7 +33,7 @@ export async function humorProfileAgent({
     .join("\n");
 
   const { object } = await generateObject({
-    model: openai("gpt-4o-mini"),
+    model: openai("gpt-5.4-mini"),
     schema: HumorProfileSchema,
     temperature: 0.7,
     system: [

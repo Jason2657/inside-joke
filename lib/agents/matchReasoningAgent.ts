@@ -30,7 +30,7 @@ export async function matchReasoningAgent({
   compatibility,
 }: Args): Promise<string> {
   const { object } = await generateObject({
-    model: openai("gpt-4o-mini"),
+    model: openai("gpt-5.4-mini"),
     schema: MatchReasoningSchema,
     temperature: 0.85,
     system: [
