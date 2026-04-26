@@ -1,0 +1,94 @@
+[
+  {
+    "id": "s1",
+    "name": "Maya",
+    "age": 21,
+    "school": "Brown",
+    "bio": "art history major, full-time crow appreciator. my brain runs on dadaism.",
+    "memeReactions": {
+      "m1": "love",
+      "m2": "meh",
+      "m3": "cringe",
+      "m4": "laugh",
+      "m5": "laugh",
+      "m6": "love",
+      "m7": "meh",
+      "m8": "cringe"
+    },
+    "humorProfile": {
+      "primaryStyle": "absurdist",
+      "secondaryStyle": "surreal",
+      "description": "Lives for nonsense played completely straight. Finds the wholesome internet exhausting and would rather think about a horse with too many legs.",
+      "vibes": ["dadaist", "art-school-pilled", "crow-coded", "deeply unserious"]
+    }
+  },
+  {
+    "id": "s2",
+    "name": "Jordan",
+    "age": 22,
+    "school": "NYU",
+    "bio": "writes copy at a brand you've heard of. unfortunately funny in a deadpan way.",
+    "memeReactions": {
+      "m1": "meh",
+      "m2": "love",
+      "m3": "cringe",
+      "m4": "love",
+      "m5": "laugh",
+      "m6": "meh",
+      "m7": "laugh",
+      "m8": "meh"
+    },
+    "humorProfile": {
+      "primaryStyle": "dry",
+      "secondaryStyle": "dark",
+      "description": "Says the bleakest thing in the room with a straight face and lets the silence do the work. Allergic to enthusiasm.",
+      "vibes": ["deadpan", "low-affect", "bleakly funny", "newsroom-coded"]
+    }
+  },
+  {
+    "id": "s3",
+    "name": "Riley",
+    "age": 20,
+    "school": "USC",
+    "bio": "film & psych double. fluent in letterboxd reviews and unhinged group chat lore.",
+    "memeReactions": {
+      "m1": "laugh",
+      "m2": "meh",
+      "m3": "love",
+      "m4": "cringe",
+      "m5": "love",
+      "m6": "meh",
+      "m7": "laugh",
+      "m8": "love"
+    },
+    "humorProfile": {
+      "primaryStyle": "wholesome",
+      "secondaryStyle": "meta",
+      "description": "Soft-launches sincerity through deeply self-aware humor. Loves a meme that hugs you and a meme about loving a meme.",
+      "vibes": ["softboiled", "earnestly online", "letterboxd-pilled", "warm meta"]
+    }
+  },
+  {
+    "id": "s4",
+    "name": "Sam",
+    "age": 21,
+    "school": "Columbia",
+    "bio": "comp lit major. my personality is a recursive joke about being on the internet.",
+    "memeReactions": {
+      "m1": "laugh",
+      "m2": "love",
+      "m3": "laugh",
+      "m4": "meh",
+      "m5": "love",
+      "m6": "meh",
+      "m7": "love",
+      "m8": "laugh"
+    },
+    "humorProfile": {
+      "primaryStyle": "chronicallyonline",
+      "secondaryStyle": "selfaware",
+      "description": "Speaks in posts. Every sentence is layered with three references and an apology for the references. Touches grass ironically.",
+      "vibes": ["terminally posting", "self-referential", "twitter-brained", "narrating own life"]
+    }
+  }
+]
