@@ -7,13 +7,13 @@
     "bio": "art history major, full-time crow appreciator. my brain runs on dadaism.",
     "memeReactions": {
       "m1": "love",
-      "m2": "meh",
+      "m2": "laugh",
       "m3": "cringe",
-      "m4": "laugh",
+      "m4": "meh",
       "m5": "laugh",
-      "m6": "love",
+      "m6": "cringe",
       "m7": "meh",
-      "m8": "cringe"
+      "m8": "meh"
     },
     "humorProfile": {
       "primaryStyle": "absurdist",
@@ -34,9 +34,9 @@
       "m3": "cringe",
       "m4": "love",
       "m5": "laugh",
-      "m6": "meh",
-      "m7": "laugh",
-      "m8": "meh"
+      "m6": "laugh",
+      "m7": "meh",
+      "m8": "laugh"
     },
     "humorProfile": {
       "primaryStyle": "dry",
@@ -57,9 +57,9 @@
       "m3": "love",
       "m4": "cringe",
       "m5": "love",
-      "m6": "meh",
+      "m6": "love",
       "m7": "laugh",
-      "m8": "love"
+      "m8": "laugh"
     },
     "humorProfile": {
       "primaryStyle": "wholesome",
@@ -76,13 +76,13 @@
     "bio": "comp lit major. my personality is a recursive joke about being on the internet.",
     "memeReactions": {
       "m1": "laugh",
-      "m2": "love",
+      "m2": "laugh",
       "m3": "laugh",
-      "m4": "meh",
+      "m4": "laugh",
       "m5": "love",
       "m6": "meh",
       "m7": "love",
-      "m8": "laugh"
+      "m8": "love"
     },
     "humorProfile": {
       "primaryStyle": "chronicallyonline",

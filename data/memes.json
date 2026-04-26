@@ -1,50 +1,50 @@
 [
   {
     "id": "m1",
-    "filename": "meme-1.jpg",
-    "caption": "me explaining my dream where i was a vending machine to my therapist",
+    "filename": "crocodiles.webp",
+    "caption": "feel like yourself again. ask your doctor about crocodiles",
     "humorTags": ["absurdist", "surreal"]
   },
   {
     "id": "m2",
-    "filename": "meme-2.jpg",
-    "caption": "the silence in the group chat after i said 'btw i'm doing well'",
+    "filename": "connect-infinity.webp",
+    "caption": "connect ∞: the classic vertical ∞-in-a-row game",
     "humorTags": ["dry", "selfaware"]
   },
   {
     "id": "m3",
-    "filename": "meme-3.jpg",
-    "caption": "labubu and i are watching the world burn together <3",
-    "humorTags": ["wholesome", "chronicallyonline"]
+    "filename": "proud-kitten.webp",
+    "caption": "you did well today and im proud of u",
+    "humorTags": ["wholesome"]
   },
   {
     "id": "m4",
-    "filename": "meme-4.jpg",
-    "caption": "my will to live shaped like a depressed cowboy at 3am",
-    "humorTags": ["dark", "dry"]
+    "filename": "standing-shower.webp",
+    "caption": "you haven't hit rock bottom until you sit down in a standing shower",
+    "humorTags": ["dark", "selfaware"]
   },
   {
     "id": "m5",
-    "filename": "meme-5.jpg",
-    "caption": "pov: you are the meme being made about you",
-    "humorTags": ["meta", "selfaware"]
+    "filename": "alice-anxiety.webp",
+    "caption": "alice in social anxiety land — 'we are all mad here.' 'at me?'",
+    "humorTags": ["selfaware", "meta"]
   },
   {
     "id": "m6",
-    "filename": "meme-6.jpg",
-    "caption": "horse with infinite legs running across the page (no context)",
-    "humorTags": ["surreal", "absurdist"]
+    "filename": "okay-different.webp",
+    "caption": "it's going to be okay, but it's going to be different",
+    "humorTags": ["dark", "wholesome"]
   },
   {
     "id": "m7",
-    "filename": "meme-7.jpg",
-    "caption": "reblog if your inner monologue is just a podcast about yourself",
+    "filename": "chronically-online-pack.webp",
+    "caption": "chronically online 14-20 year old starter pack",
     "humorTags": ["chronicallyonline", "meta"]
   },
   {
     "id": "m8",
-    "filename": "meme-8.jpg",
-    "caption": "small dog in a tiny rain jacket. that's the whole post. that's the meme.",
-    "humorTags": ["wholesome", "absurdist"]
+    "filename": "zoned-out.webp",
+    "caption": "i zoned out in 8th grade and lowkey never zoned back in",
+    "humorTags": ["chronicallyonline", "selfaware"]
   }
 ]
