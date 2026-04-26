@@ -71,7 +71,7 @@ export default function OnboardingPage() {
           label="school"
           value={school}
           onChange={setSchool}
-          placeholder="stanford"
+          placeholder="columbia"
           autoComplete="organization"
         />
 
