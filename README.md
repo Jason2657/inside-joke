@@ -4,6 +4,10 @@
 
 Built in ~90 minutes as a take-home for the **Ditto** Product Engineering internship.
 
+<p align="center">
+  <img src="docs/onboarding.png" alt="Inside Joke onboarding screen — 'memes don't lie.'" width="420" />
+</p>
+
 ## Pitch
 
 Young people don't know what they want from a dating app. Asking them to fill out preference forms produces idealized self-reports that miss what actually lands when two people meet. **Humor reactions are an indirect signal** — they reveal taste, attachment style, and worldview faster and more honestly than a bio ever could.
