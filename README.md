@@ -2,8 +2,6 @@
 
 > Humor-based matching for an AI-native dating app. React to 8 memes; we figure out who's on your wavelength.
 
-Built in ~90 minutes as a take-home for the **Ditto** Product Engineering internship.
-
 <p align="center">
   <img src="docs/onboarding.png" alt="Inside Joke onboarding screen — 'memes don't lie.'" width="420" />
 </p>
